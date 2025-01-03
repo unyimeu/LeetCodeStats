@@ -4,10 +4,9 @@ Welcome to my repository of LeetCode solutions! 🧠💻 Here, I showcase my jou
 
 ---
 
-## 📊 Dynamic Stats (Live)
+## 📊 Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=unyimeu)
-
+![Stats](https://leetcode-badge-sage.vercel.app/badge/unyimeu?bgColor=fff)
 ---
 
 ## 🗂️ Repository Structure
@@ -15,7 +14,7 @@ Welcome to my repository of LeetCode solutions! 🧠💻 Here, I showcase my jou
 The repository is organized by problem categories and difficulty levels:
 
 ```
-📂 LeetCode
+📂 LeetCodeStats
 ├── 📁 Easy
 ├── 📁 Medium
 ├── 📁 Hard
