@@ -20,6 +20,7 @@ The repository is organized by problem categories and difficulty levels:
 ├── 📁 Medium
 ├── 📁 Hard
 └── 📁 Miscellaneous
+```
 
 ## 🛠️ How to Use
 
